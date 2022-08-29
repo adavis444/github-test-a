@@ -1,0 +1,3 @@
+[submodule "submodules/github-test-b"]
+	path = submodules/github-test-b
+	url = git@github.com:adavis444/github-test-b
